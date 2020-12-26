@@ -1,20 +1,20 @@
 ﻿<Properties StartupConfiguration="{322F971A-6B53-FEBB-3B89-4CE5B9E7D5C9}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Fireball.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/PlayerCharacter.cs">
     <Files>
       <File FileName="Assets/Scripts/Spin.cs" Line="12" Column="39" />
       <File FileName="Assets/Scripts/MouseLook.cs" />
-      <File FileName="Assets/Scripts/FPSInput.cs" Line="5" Column="1" />
-      <File FileName="Assets/Scripts/RayShooter.cs" Line="42" Column="33" />
-      <File FileName="Assets/Scripts/ReactiveTarget.cs" Line="13" Column="38" />
-      <File FileName="Assets/Scripts/WanderingAI.cs" Line="39" Column="75" />
-      <File FileName="Assets/Scripts/SceneController.cs" Line="24" Column="50" />
-      <File FileName="Assets/Scripts/Fireball.cs" Line="21" Column="33" />
-      <File FileName="Assets/Scripts/PlayerCharacter.cs" Line="24" Column="40" />
+      <File FileName="Assets/Scripts/FPSInput.cs" />
+      <File FileName="Assets/Scripts/RayShooter.cs" />
+      <File FileName="Assets/Scripts/ReactiveTarget.cs" />
+      <File FileName="Assets/Scripts/WanderingAI.cs" />
+      <File FileName="Assets/Scripts/SceneController.cs" />
+      <File FileName="Assets/Scripts/Fireball.cs" />
+      <File FileName="Assets/Scripts/PlayerCharacter.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="40e1b75c-3eac-40b7-b451-7b41bf683c2b" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="369e3f73-a0fd-42f8-a236-e5c9eca11f45" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
