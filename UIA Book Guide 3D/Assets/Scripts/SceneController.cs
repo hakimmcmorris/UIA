@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.EventSystems;
 
 public class SceneController : MonoBehaviour
 {
@@ -24,4 +25,6 @@ public class SceneController : MonoBehaviour
             _enemy.transform.Rotate(0, angle, 0);
         }
     }
+
+    
 }
